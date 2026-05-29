@@ -1,8 +1,8 @@
 export default function App() {
   const commandStaff = [
-    { rank: 'Chief of Police', name: 'John Carter' },
-    { rank: 'Assistant Chief', name: 'Sarah Mitchell' },
-    { rank: 'Captain', name: 'Michael Reyes' },
+    { rank: 'Chief of Police', name: 'Ayden Pierce' },
+    { rank: 'Assistant Chief', name: 'David Tomaso' },
+    { rank: 'Captain', name: 'B. Dawson' },
   ];
 
   const divisions = [
